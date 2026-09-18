@@ -12,4 +12,4 @@ The paper develops a structural analysis of physical time and the arrow-of-time 
 
 [**Download the English paper (PDF)**](https://github.com/dxspacescience/arrow-of-time/releases/download/v1.0/paper.pdf)
 
-[**Download the Chinese version (PDF) / 下载中文版**](https://github.com/dxspacescience/arrow-of-time/releases/download/v1.0/paper-zh.pdf)
+[**Download the Chinese version (PDF) / 下载中文版**](https://github.com/dxspacescience/arrow-of-time/releases/download/v1.0/paper_zh.pdf)
